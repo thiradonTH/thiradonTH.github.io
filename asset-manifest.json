@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f866f6b8.css",
+    "main.js": "/static/js/main.89497f97.js",
+    "static/js/787.a53d38d6.chunk.js": "/static/js/787.a53d38d6.chunk.js",
+    "static/media/Profile.png": "/static/media/Profile.9193290a109213d3edf0.png",
+    "static/media/oympic.jpg": "/static/media/oympic.60b99eec0ba5d27362d7.jpg",
+    "index.html": "/index.html",
+    "main.f866f6b8.css.map": "/static/css/main.f866f6b8.css.map",
+    "main.89497f97.js.map": "/static/js/main.89497f97.js.map",
+    "787.a53d38d6.chunk.js.map": "/static/js/787.a53d38d6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f866f6b8.css",
+    "static/js/main.89497f97.js"
+  ]
+}
